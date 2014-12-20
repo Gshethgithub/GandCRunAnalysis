@@ -3,7 +3,7 @@ GandCRunAnalysis
 
 ##This is the repo's README.md file for the Getting and Cleaning Data course, course project Run Analysis:
 
-##I have created one CodeBook.md file that tells you what each line's variables, calculations, and conversions descriptions.
+##I have created one CodeBook.md file that tells you descriptions and definitions of each line's variables, calculations, and conversions.
 
 ##I have created one R script called run_analysis.R that does the following: 
 ##Merges the training and the test sets to create one data set.
