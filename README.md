@@ -1,7 +1,7 @@
 GandCRunAnalysis
 ================
 
-##This is the repo's README.md file for the Getting and Cleaning course, course project Run Analysis:
+##This is the repo's README.md file for the Getting and Cleaning Data course, course project Run Analysis:
 
 ##I have created one CodeBook.md file that tells you what each line's variables, calculations, and conversions descriptions.
 
