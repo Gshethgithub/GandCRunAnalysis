@@ -1,7 +1,9 @@
 GandCRunAnalysis
 ================
 
-This is the repo's README.md file for the Getting and Cleaning course, course project Run Analysis:
+##This is the repo's README.md file for the Getting and Cleaning course, course project Run Analysis:
+
+##I have created one CodeBook.md file that tells you what each line's variables, calculations, and conversions descriptions.
 
 ##I have created one R script called run_analysis.R that does the following: 
 ##Merges the training and the test sets to create one data set.
@@ -29,6 +31,6 @@ This is the repo's README.md file for the Getting and Cleaning course, course pr
 
 ##Appropriately labels the data set with descriptive variable names
 
-##From the data set in step 4, creates a second, 
-##independent tidy data set with the average of each variable for each activity and 
-##each subject.
+##From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each ##activity and each subject.
+
+##Output is a tidydata text file, so that you can see the tidy data set.
